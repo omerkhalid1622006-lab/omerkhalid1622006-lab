@@ -1,6 +1,6 @@
 # Hi there, I'm Omar Khalid Zaki 👋  
 
-## AI & Data Science Enthusiast | Competitive Programmer | ICPC Mansoura
+## AI & Data Science Enthusiast | Problem Solver
 
 I am passionate about transforming raw data into actionable insights and building intelligent systems powered by Artificial Intelligence and Machine Learning.
 
@@ -36,7 +36,8 @@ With a strong mathematical foundation and solid understanding of data preprocess
 ## 📊 Current Focus
 
 - Building end-to-end Data Analysis projects   
-- Strengthening problem-solving and algorithmic thinking  
+- Strengthening problem-solving and algorithmic thinking
+- I’m focusing on Machine Learning. I’m learning the fundamentals and working with Python to understand how models are built, trained, and improved.
 
 ---
 
